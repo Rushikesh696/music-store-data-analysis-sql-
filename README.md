@@ -1,6 +1,6 @@
 # Music Store Data Analysis using SQL
 
-###Project Overview
+### Project Overview
 This project involves designing a database for a digital Music Store and running a series of analytical SQL queries to extract meaningful business insights. The dataset represents a fictional music store with information about customers, employees, tracks, invoices, genres, and more.
 
 The goal of the project is to answer real-world business questions using SQL, helping stakeholders make informed decisions such as identifying top customers, understanding buying behavior, and planning promotions.
