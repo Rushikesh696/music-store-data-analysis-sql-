@@ -37,19 +37,6 @@ track
 
 Each table stores a specific entity, and they are related via foreign keys to allow normalized and efficient queries.
 
-Analytical Tasks & Insights
-**Task Description**	                                                    **Insight/Output**
-1	Who is the senior-most employee based on job title?	                     Employee with the highest job level
-2	Which countries have the most invoices?	                                 Top countries by number of sales
-3	Top 3 invoice totals?	                                                   Highest individual invoice amounts
-4	Which city has the best customers (by total invoice amount)?	           City generating highest revenue
-5	Who is the best customer (most money spent)?	                           Customer with the highest spending
-6	List all Rock music listeners ordered by email alphabetically.	         Rock genre listeners with email
-7	Top 10 artists who have written the most rock music.	                   Artists with highest track counts in Rock
-8	Tracks longer than average song length.	                                 Tracks with length above average
-9	Total amount spent by each customer on each artist.	                     Customer-Artist-wise spending
-10	Most popular music genre per country.	                                 Top genre per country by purchase
-11	Top spending customer per country.	                                   Best customer by country
 
 ### Key Learnings
 Writing complex queries using JOIN, GROUP BY, ORDER BY, and subqueries.
